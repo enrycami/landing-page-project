@@ -93,6 +93,7 @@ a {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    align-items: center;
 }
 
 .card-placeholder {
@@ -111,6 +112,7 @@ a {
 
 .card-text{
     text-align: center;
+    max-width: 150px;
 }
 
 .information-title {
